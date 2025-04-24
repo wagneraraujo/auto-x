@@ -2,6 +2,13 @@
 
 Study N8N 
 
+### Execute
+
+```bash
+make deploy
+``` 
+After deploy access http://localhost:5678 or url prod /n8n
+
 ## TODO
 
 - [x] Add docker compose up     
